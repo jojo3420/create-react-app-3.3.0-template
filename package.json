@@ -20,7 +20,7 @@
     "redux-actions": "^2.6.5",
     "redux-logger": "^3.0.6",
     "redux-pender": "^2.0.12",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   },
   "scripts": {
     "start": "NODE_PATH=src react-scripts start",
